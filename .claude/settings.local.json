@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(xcodebuild:*)",
+      "Bash(find:*)",
+      "Bash(python3:*)",
+      "Bash(swift:*)",
+      "Bash(grep:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "/Users/wavesiddhartha/Library/Developer/Xcode/DerivedData"
+    ]
+  }
+}
